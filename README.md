@@ -9,11 +9,11 @@ Admin-Ecommerce adalah aplikasi web yang menyediakan panel administrasi lengkap 
 ## 🖼️ Tampilan Aplikasi
 
 ### Halaman Login
-![Tampilan Awal](public/image/Tampilan%20Awal.png)
+![Tampilan Awal](img/Tampilan%20Awal.png)
 *Halaman login yang aman dan user-friendly*
 
 ### Dashboard Admin
-![Admin Dashboard](public/image/Admin%20Dashboard.png)
+![Admin Dashboard](img/Admin%20Dashboard.png)
 *Panel dashboard admin dengan navigasi lengkap dan fitur manajemen*
 
 ## ✨ Fitur Utama
@@ -245,4 +245,5 @@ Proyek ini dikembangkan menggunakan **Laragon** sebagai development environment 
 ---
 
 **Admin-Ecommerce** - Sistem administrasi e-commerce yang powerful dan mudah digunakan! 🚀
+# Admin-Ecommerce
 # Admin-Ecommerce
