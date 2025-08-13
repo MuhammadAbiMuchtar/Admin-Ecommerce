@@ -245,5 +245,3 @@ Proyek ini dikembangkan menggunakan **Laragon** sebagai development environment 
 ---
 
 **Admin-Ecommerce** - Sistem administrasi e-commerce yang powerful dan mudah digunakan! 🚀
-# Admin-Ecommerce
-# Admin-Ecommerce
