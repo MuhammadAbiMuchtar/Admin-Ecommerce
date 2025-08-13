@@ -21,7 +21,7 @@ Admin-Ecommerce adalah aplikasi web yang menyediakan panel administrasi lengkap 
 ### 🔐 Sistem Autentikasi
 - Login/logout admin
 - Role-based access control (Super Admin & Admin)
-- Reset password
+- Reset password (🚧 dalam tahap development)
 - Middleware autentikasi
 
 ### 👥 Manajemen User
